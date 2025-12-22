@@ -22,8 +22,10 @@ nav .logo {
     justify-content: space-between;
 }
 
-.searchBar {
-    width: 200rem;
+.searchbar {
+    width: 40rem;
+    height: 2.5rem;
+    margin-left: 6rem;
 }
 
 .nav-buttons {
@@ -44,15 +46,6 @@ nav .logo {
     display: inline-block;
     vertical-align: middle;
     height: inherit;
-}
-
-.button:hover {
-    background-color: blue;
-    color: white;
-}
-
-.button img:hover {
-    filter: brightness(0) invert(1);
 }
 
 .dropdown {
