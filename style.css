@@ -48,10 +48,6 @@ nav .logo {
     height: inherit;
 }
 
-.button img:hover {
-    filter: brightness(0) invert(1);
-}
-
 .dropdown {
   position: relative;
 }
