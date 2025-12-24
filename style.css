@@ -31,7 +31,7 @@ nav .logo {
 .nav-buttons {
     display: flex;
     max-width: 30rem;
-    justify-content: space-between;
+    justify-content : space-between;
     align-items: center;
 }
 
@@ -107,6 +107,8 @@ nav .logo {
 
 .crousel {
     margin-top: 0.6rem;
+    width: 85rem;
+    align-self: center;
 }
 
 
